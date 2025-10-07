@@ -1,7 +1,7 @@
 ManifestFileVersion: 0
-CRC: 2103466735
+CRC: 3541808768
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: remotedata
+      Name: runners/peterpata
       Dependencies: {}

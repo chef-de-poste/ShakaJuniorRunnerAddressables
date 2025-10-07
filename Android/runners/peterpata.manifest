@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2845237773
+CRC: 477450824
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e7eae811ac51ffd49e441a97cd5aadbc
+    Hash: 281e1302cb8ca5ade1f40705fd1dba26
   TypeTreeHash:
     serializedVersion: 2
     Hash: a2821d1047890242ba2289fa8c08704d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e7eae811ac51ffd49e441a97cd5aadbc
+    Hash: 281e1302cb8ca5ade1f40705fd1dba26
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -145,24 +145,33 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Prefabs/Runners/Peter/Animation/Run.anim
-- Assets/Prefabs/Defenders/VehicleDefenseOptions/RhinoTruck/RhinoTruck.asset
+- Assets/Prefabs/Runners/Peter/Defense/RhinoTruck/RhinoTruck.asset
+- Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_N.png
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SuperBlaster/SuperBlasterData.asset
+- Assets/Prefabs/Runners/Peter/PeterWeapons/TomatoGun/source/WaterCannon.asset
 - Assets/Prefabs/Runners/Peter/Animation/Slide.anim
 - Assets/Scripts/Managers/RunnerManager/RemoteRunnersManager.asset
-- Assets/Prefabs/Challenges/PaterAttackChallenge/PeterAttackChallenge.asset
+- Assets/Prefabs/Runners/Peter/PaterAttackChallenge/PeterAttackChallenge.asset
 - Assets/Prefabs/Runners/Peter/Animation/Idle.anim
 - Assets/Prefabs/Runners/Peter/PeterProfile.asset
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SuperBlaster/SuperBlasterProjectile.prefab
-- Assets/Prefabs/Defenders/VehicleDefenseOptions/RhinoTruck/RhinoTruckScriptOBJ.prefab
-- Assets/TempImageFolder/PeterRunnerSprite.png
+- Assets/Prefabs/Runners/Peter/PeterWeapons/SuperBlaster/SuperBlaster.prefab
+- Assets/Prefabs/Runners/Peter/Defense/RhinoTruck/RhinoTruckScriptOBJ.prefab
+- Assets/Prefabs/Runners/Peter/PeterRunnerSprite.png
+- Assets/Prefabs/Runners/Peter/PeterWeapons/TomatoGun/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/Peter/Animation/peter@Happy Idle@Jumping Up.fbx
 - Assets/Prefabs/SharedWeapons/DefaultCrosshair/DefaultCrosshair.prefab
+- Assets/Prefabs/Runners/Peter/PeterWeapons/TomatoGun/TomatoGunPrefab.prefab
 - Assets/Prefabs/Runners/Peter/Animation/peter@Happy Idle@Standard Run.fbx
+- Assets/Prefabs/Runners/Peter/PeterWeapons/TomatoGun/TomatoGunData.asset
 - Assets/Prefabs/Runners/Peter/Animation/nick_fury@Running Slide.fbx
 - Assets/Prefabs/Runners/Peter/Animation/peter@Running.fbx
-- Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Impacts/StandardRedHitImpact.prefab
-- Assets/Prefabs/Defenders/VehicleDefenseOptions/RhinoTruck/RhinoTruckPrefab.prefab
+- Assets/Prefabs/Runners/Peter/StandardRedHitImpact.prefab
+- Assets/Prefabs/Runners/Peter/Defense/RhinoTruck/RhinoTruckPrefab.prefab
+- Assets/Prefabs/Runners/Peter/PeterModel/peter@Happy Idle.fbx
+- Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_D.png
 - Assets/Prefabs/Runners/Peter/Animation/Jump.anim
-- Assets/Prefabs/SharedWeapons/SharedWeaponPrefabs/TomatoGun/TomatoGunProjectile.prefab
-- Assets/Prefabs/Challenges/PaterAttackChallenge/PeterAttackChallengeOBJ.prefab
+- Assets/Prefabs/Runners/Peter/PeterWeapons/TomatoGun/TomatoGunProjectile.prefab
+- Assets/Prefabs/Runners/Peter/PaterAttackChallenge/PeterAttackChallengeOBJ.prefab
+- Assets/Prefabs/Runners/Peter/PeterPrefab.prefab
 Dependencies: []
