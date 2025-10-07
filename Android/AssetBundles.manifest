@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2103466735
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: remotedata
+      Dependencies: {}
