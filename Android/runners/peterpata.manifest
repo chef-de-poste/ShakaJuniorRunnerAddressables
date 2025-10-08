@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2553746552
+CRC: 1325903973
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5c056399b52aa3e98242d4985b8ac279
+    Hash: 96b78b6aacc2f85af4a74da665b9609c
   TypeTreeHash:
     serializedVersion: 2
     Hash: b0450cb2e6d0adf74a7d22c414abee3e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5c056399b52aa3e98242d4985b8ac279
+    Hash: 96b78b6aacc2f85af4a74da665b9609c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,16 +142,19 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Prefabs/Runners/Peter/Animation/Run.anim
 - Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefense.asset
+- Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_N.png
 - Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/Peter/Animation/Slide.anim
 - Assets/Scripts/Managers/RunnerManager/RemoteRunnersManager.asset
-- Assets/Prefabs/Runners/Peter/PrimaryDefense/PeterAttackChallenge.asset
+- Assets/Prefabs/Runners/Peter/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Peter/Animation/Idle.anim
 - Assets/Prefabs/Runners/Peter/RunnerProfile.asset
 - Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Peter/RunnerSprite.png
+- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/Peter/Animation/peter@Happy Idle@Jumping Up.fbx
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
@@ -160,10 +163,12 @@ Assets:
 - Assets/Prefabs/Runners/Peter/Animation/nick_fury@Running Slide.fbx
 - Assets/Prefabs/Runners/Peter/Animation/peter@Running.fbx
 - Assets/Prefabs/Runners/Peter/HitImpact.prefab
+- Assets/Prefabs/Runners/Peter/PeterModel/peter@Happy Idle.fbx
 - Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_D.png
 - Assets/Prefabs/Runners/Peter/Animation/Jump.anim
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Peter/PrimaryDefense/PeterAttackChallengeOBJ.prefab
+- Assets/Prefabs/Runners/Peter/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Peter/RunnerPrefab.prefab
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
