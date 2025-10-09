@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1364912841
+CRC: 2248130047
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b7cff56d9632a0ae47f3f27fd063df62
+    Hash: 5a6bdb99982eefd2c2290c693717dbce
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 508fb1aa9be25491c00a19c65e54aa0b
+    Hash: 839099121b7efae47d8c3b876a145493
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: b7cff56d9632a0ae47f3f27fd063df62
+    Hash: 5a6bdb99982eefd2c2290c693717dbce
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -135,7 +135,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Prefabs/Runners/Peter/Animation/Run.anim
-- Assets/Prefabs/Runners/Peter/Shaders/PeterShader.shader
 - Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_N.png
 - Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
