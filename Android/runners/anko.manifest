@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3442538157
+CRC: 2326258849
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ccf36997f64d80c634a8fd65a1ed7d1c
+    Hash: 9bffeed2adb96b7063b125bff9e47976
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aa8d6d44a859cd25d452abbb890f2833
+    Hash: 8beb90ffb8faff5ec22c86a1813e0b09
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ccf36997f64d80c634a8fd65a1ed7d1c
+    Hash: 9bffeed2adb96b7063b125bff9e47976
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -45,15 +45,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: a003edb08e7928e4d8f6734538a07088, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d26acf816ba8fc4488b6e91ca241021b, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 8c286e34ac71ddd4fab7fcc82ef16e36, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fec48d2997e7d1f40956b79310c4bb15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7a20b1086fbe79488df18b75a089484, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f2a40a147e7a5af418585f2c51fb0f83, type: 3}
 - Class: 114
@@ -63,19 +61,21 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 5d401c0999c64e44ea199248817195f3, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 88d1ec5c62bd89e4d8453044b27c4955, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
+  Script: {fileID: 11500000, guid: c3693b449538d8b4e8a895552d0f42dc, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 52d8ada66923b8943ae359d5e6dd397a, type: 3}
+  Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 925a9ff895e76014e887c56a970dba75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0a8eefed71f2fdd45a59cbef85bc4cf0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 2abc2f0cd17aa164d9339a16e110a495, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 74a922d661ad7824eac548f55876c563, type: 3}
 - Class: 114
@@ -136,36 +136,38 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Prefabs/Runners/Peter/Animation/Run.anim
-- Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefense.asset
-- Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_N.png
-- Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
-- Assets/Prefabs/Runners/Peter/Animation/Slide.anim
-- Assets/Prefabs/Runners/Peter/PrimaryDefense/PrimaryDefense.asset
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Prefabs/Runners/Peter/Animation/Idle.anim
-- Assets/Prefabs/Runners/Peter/Animation/Running Slide.anim
-- Assets/Prefabs/Runners/Peter/RunnerProfile.asset
-- Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
-- Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/Peter/RunnerSprite.png
-- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Prefabs/Runners/Peter/Animation/peter@Happy Idle@Jumping Up.fbx
-- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
-- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
-- Assets/Prefabs/Runners/Peter/Animation/peter@Happy Idle@Standard Run.fbx
-- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
-- Assets/Prefabs/Runners/Peter/Animation/nick_fury@Running Slide.fbx
-- Assets/Prefabs/Runners/Peter/Animation/peter@Running.fbx
-- Assets/Prefabs/Runners/Peter/HitImpact.prefab
-- Assets/Prefabs/Runners/Peter/PeterModel/peter@Happy Idle.fbx
-- Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefensePrefab.prefab
-- Assets/Prefabs/Runners/Peter/PeterModel/textures/PeterParker_D.png
-- Assets/Prefabs/Runners/Peter/Animation/Jump.anim
-- Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Peter/PrimaryDefense/PrimaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/Peter/RunnerPrefab.prefab
+- Assets/Prefabs/Runners/Anko/Animation/anko@Running Slide.fbx
+- Assets/Prefabs/Runners/Anko/Animation/Jump.anim
+- Assets/Prefabs/Runners/Anko/Textures/LP.mat
+- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefenseInstance.prefab
+- Assets/Prefabs/Runners/Anko/RunnerProfile.asset
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
+- Assets/Prefabs/Runners/Anko/Animation/Run.anim
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
+- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
+- Assets/Prefabs/Runners/Anko/Textures/anko_LP_AO.png
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
+- Assets/Prefabs/Runners/Anko/HitImpact.prefab
+- Assets/Prefabs/Runners/Anko/Textures/anko_LP_Normal.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/Anko/Textures/anko_LP_Albedo.png
+- Assets/Prefabs/Runners/Anko/Textures/anko_LP_Height.png
+- Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Prefabs/Runners/Anko/AnkoModel/anko@Dwarf Idle.fbx
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/Anko/Animation/anko@Standard Run.fbx
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Prefabs/Runners/Anko/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
+- Assets/Prefabs/Runners/Anko/Animation/anko@Jump Over.fbx
+- Assets/Prefabs/Runners/Anko/Textures/anko_LP_Metallic.png
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
