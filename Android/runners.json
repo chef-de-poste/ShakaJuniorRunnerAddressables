@@ -1,0 +1,12 @@
+{
+    "runners": [
+        {
+            "name": "anko",
+            "version": 1
+        },
+        {
+            "name": "peterpata",
+            "version": 1
+        }
+    ]
+}
