@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2326258849
+CRC: 1794338340
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9bffeed2adb96b7063b125bff9e47976
+    Hash: 51360b572a9b2b5da6468489ac89b115
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8beb90ffb8faff5ec22c86a1813e0b09
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9bffeed2adb96b7063b125bff9e47976
+    Hash: 51360b572a9b2b5da6468489ac89b115
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -151,13 +151,14 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/Textures/anko_LP_AO.png
+- Assets/Prefabs/Runners/Anko/RunnerSprite.png
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/HitImpact.prefab
 - Assets/Prefabs/Runners/Anko/Textures/anko_LP_Normal.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/Textures/anko_LP_Albedo.png
 - Assets/Prefabs/Runners/Anko/Textures/anko_LP_Height.png
-- Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/RunnerSprite1.png
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/AnkoModel/anko@Dwarf Idle.fbx

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3442538157
+CRC: 2305714978
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ccf36997f64d80c634a8fd65a1ed7d1c
+    Hash: 6bd016a812ddd9491485ec9078247e57
   TypeTreeHash:
     serializedVersion: 2
     Hash: aa8d6d44a859cd25d452abbb890f2833
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ccf36997f64d80c634a8fd65a1ed7d1c
+    Hash: 6bd016a812ddd9491485ec9078247e57
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,8 +150,8 @@ Assets:
 - Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Peter/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/Peter/SecondaryDefense/RhinoTruck/SecondaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/Peter/RunnerSprite.png
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
+- Assets/Prefabs/Runners/Peter/RunnerSprite.png
 - Assets/Prefabs/Runners/Peter/Animation/peter@Happy Idle@Jumping Up.fbx
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Peter/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
