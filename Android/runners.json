@@ -2,11 +2,11 @@
     "runners": [
         {
             "name": "anko",
-            "version": 1
+            "version": 2
         },
         {
             "name": "peterpata",
-            "version": 1
+            "version": 2
         }
     ]
 }
