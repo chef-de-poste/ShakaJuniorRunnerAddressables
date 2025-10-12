@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2470344486
+CRC: 1131865033
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4eb56b06b7f6c1a80817bbb9777235fe
+    Hash: ff403e85b4ab613f24847f7e1dfe4971
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8beb90ffb8faff5ec22c86a1813e0b09
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4eb56b06b7f6c1a80817bbb9777235fe
+    Hash: ff403e85b4ab613f24847f7e1dfe4971
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -152,11 +152,11 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Running Slide.fbx
-- Assets/Prefabs/Runners/Anko/RunnerSprite2.png
+- Assets/Prefabs/Runners/Anko/RunnerSprite.png
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/HitImpact.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/RunnerSprite1.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
