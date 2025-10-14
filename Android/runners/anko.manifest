@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2019668380
+CRC: 415065292
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a2dbfc07a9033d382290667899d1f2b
+    Hash: a9515257223877e3f18a76bfba58e251
   TypeTreeHash:
     serializedVersion: 2
     Hash: 368347efe7ab5f4e477aa5a0fe97ebe1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9a2dbfc07a9033d382290667899d1f2b
+    Hash: a9515257223877e3f18a76bfba58e251
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -139,7 +139,7 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Running Slide.anim
-- Assets/Prefabs/Runners/Anko/Animation/Run.anim
+- Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Anko/RunnerProfile.asset
@@ -155,19 +155,19 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Running Slide.fbx
 - Assets/Prefabs/Runners/Anko/RunnerSprite.png
-- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
+- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/HitImpact.prefab
+- Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/RunnerSprite1.png
+- Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
-- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
-- Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
+- Assets/Prefabs/Runners/Anko/Animation/Slide.anim
 - Assets/Prefabs/Runners/Anko/Textures/Ranger.png
-- Assets/Prefabs/Runners/Anko/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Jump Over.fbx
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly

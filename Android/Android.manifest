@@ -1,17 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1186803610
+CRC: 1339276193
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: runners/peterpata
       Dependencies:
         Dependency_0: runners/bigbilly
-        Dependency_1: runners/anko
     Info_1:
       Name: runners/bigbilly
       Dependencies:
         Dependency_0: runners/peterpata
-        Dependency_1: runners/anko
     Info_2:
       Name: runners/anko
       Dependencies:
