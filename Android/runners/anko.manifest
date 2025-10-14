@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2667988704
+CRC: 3846146167
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 61c6c1093170a9f7403feb64b37b27d8
+    Hash: eb7faec9beb75fe3d8625091e8271ca7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 64ddcf5ed653dc965dd68cd9ec5a23cc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 61c6c1093170a9f7403feb64b37b27d8
+    Hash: eb7faec9beb75fe3d8625091e8271ca7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -139,6 +139,7 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/ChickenGun.asset
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
@@ -156,16 +157,21 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/Material-material.mat
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Running Slide.fbx
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/material/PolygonScifiWorlds_Texture_01_A.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/ChickenGun.prefab
 - Assets/Prefabs/Runners/Anko/RunnerSprite.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/SciHiHeavyGun.fbx
 - Assets/Prefabs/Runners/Anko/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/HitImpact.prefab
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/SciHiHeavyGun.prefab
 - Assets/Prefabs/Runners/Anko/RunnerSprite1.png
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/material/PolygonScifiWorlds_Mat_01_A.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/ufo.PNG
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
