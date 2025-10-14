@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1095000636
+CRC: 4203878667
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 440b641a56182886979bb671ea3eb8dc
+    Hash: 8ae3967849b95120b5a81865491ece3b
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6282ac28984cd5344be8562eb3c5e5f8
+    Hash: 05d460a66cbefe97aab5ce7f32396854
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 440b641a56182886979bb671ea3eb8dc
+    Hash: 8ae3967849b95120b5a81865491ece3b
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -49,6 +49,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 85cedb815a7a6ae49bddc530f0cd4625, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: fec48d2997e7d1f40956b79310c4bb15, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f7a20b1086fbe79488df18b75a089484, type: 3}
@@ -60,8 +62,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 24ccab1f7d37adc4eb8004d7c59370de, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5d401c0999c64e44ea199248817195f3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
 - Class: 114
@@ -119,6 +119,8 @@ ClassTypes:
 SerializeReferenceClassIdentifiers:
 - AssemblyName: CFXRRuntime
   ClassName: CartoonFX.CFXR_Effect/CameraShake
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.AerialSecondarySupportConfiguration
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
