@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 415065292
+CRC: 1848838200
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a9515257223877e3f18a76bfba58e251
+    Hash: c0abec066c7e8b47181019b417e2b23e
   TypeTreeHash:
     serializedVersion: 2
     Hash: 368347efe7ab5f4e477aa5a0fe97ebe1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a9515257223877e3f18a76bfba58e251
+    Hash: c0abec066c7e8b47181019b417e2b23e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -167,6 +167,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/Anko/Animation/Slide.anim
+- Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/Anko/Textures/Ranger.png
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Jump Over.fbx
 Dependencies:
