@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1583804589
+CRC: 3972327213
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5ca89258afac1faf6986d3199c2b2e84
+    Hash: ed817240b9e24cf07fd0607c6af459a4
   TypeTreeHash:
     serializedVersion: 2
     Hash: 64ddcf5ed653dc965dd68cd9ec5a23cc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5ca89258afac1faf6986d3199c2b2e84
+    Hash: ed817240b9e24cf07fd0607c6af459a4
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -121,6 +121,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: CartoonFX.CFXR_Effect/CameraShake
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.AerialSecondarySupportConfiguration
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.AerialZappyMovementConfiguration
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
