@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1979817089
+CRC: 467676787
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 43a94262c4fc2f81aaeb74f176415399
+    Hash: a10d36d30d8801f8d5ca2286d9f2fe12
   TypeTreeHash:
     serializedVersion: 2
-    Hash: c54d63ad0d3070dafbfc8b4bc12f1efe
+    Hash: 7231e98356301cfea32519d585c67733
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 43a94262c4fc2f81aaeb74f176415399
+    Hash: a10d36d30d8801f8d5ca2286d9f2fe12
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -173,6 +173,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/AnkoSaucer.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/ChickenGun.prefab
