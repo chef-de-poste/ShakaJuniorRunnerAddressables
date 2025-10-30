@@ -11,10 +11,6 @@
         {
             "name": "bigbilly",
             "version": 6
-        },
-        {
-            "name": "AssetBundleManifest",
-            "version": 1
         }
     ]
 }
