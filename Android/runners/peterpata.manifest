@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3554653447
+CRC: 3186125191
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3c2a38aab329615732df9238e8606c0c
+    Hash: 61425673a731d0c73a464282e49ace96
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2d57c24220c486ad392706f5f373652e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3c2a38aab329615732df9238e8606c0c
+    Hash: 61425673a731d0c73a464282e49ace96
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -142,35 +142,33 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_N.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/Slide.anim
-- Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefense.asset
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
 - Assets/Prefabs/Runners/PeterPata/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
+- Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/PeterPata/RunnerProfile.asset
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerSprite2.png
+- Assets/Prefabs/Runners/PeterPata/RunnerSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/PeterPata/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/PeterPata/Animation/peter@Happy Idle@Jumping Up.fbx
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
-- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
+- Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/PeterPata/Animation/peter@Happy Idle@Standard Run.fbx
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/nick_fury@Running Slide.fbx
-- Assets/Prefabs/Runners/PeterPata/RunnerSprite.png
 - Assets/Prefabs/Runners/PeterPata/Animation/peter@Running.fbx
 - Assets/Prefabs/Runners/PeterPata/HitImpact.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterModel/peter@Happy Idle.fbx
-- Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab1.prefab
-- Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_D.png
 - Assets/Prefabs/Runners/PeterPata/Animation/Jump.anim
+- Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_D.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerPrefab.prefab
-Dependencies:
-- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
+Dependencies: []
