@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 677837567
+CRC: 1825578409
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0ea6f65bbb09d892766fb49599d13d07
+    Hash: 2f845cb8fd5a2d5e80d75a0a1141f656
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9685f3d878ed59da829c4fc314bc2106
+    Hash: d7ab7be690339fdb44433379cc87c9cd
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 0ea6f65bbb09d892766fb49599d13d07
+    Hash: 2f845cb8fd5a2d5e80d75a0a1141f656
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -44,8 +44,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d26acf816ba8fc4488b6e91ca241021b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: abbf5a58a7266f0439b4bbdcac8b4bcf, type: 3}
 - Class: 114
@@ -159,7 +157,6 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture3.png
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Happy Idle@Jumping Up.fbx
-- Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Flaba@Punching.fbx
 - Assets/Prefabs/Runners/BigBilly/Animation/Slide.anim
 - Assets/Prefabs/Runners/BigBilly/Animation/Run.anim

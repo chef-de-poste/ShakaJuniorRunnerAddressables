@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3917488012
+CRC: 1807389772
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d2b702268cf35c62c8cbca09cffe495
+    Hash: e18579bd794f95112a28ea9d83d15833
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 915af3628000c5fdf896d1dc8fb9e0e1
+    Hash: 16e1c7580caf50ce327fb1691b32a04b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5d2b702268cf35c62c8cbca09cffe495
+    Hash: e18579bd794f95112a28ea9d83d15833
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -46,8 +46,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d26acf816ba8fc4488b6e91ca241021b, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: abbf5a58a7266f0439b4bbdcac8b4bcf, type: 3}
 - Class: 114
@@ -173,10 +171,9 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefenseInstance.prefab
+- Assets/Prefabs/Runners/Anko/Textures/internal_ground_ao_texture.jpeg
 - Assets/Prefabs/Runners/Anko/RunnerProfile.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-- Assets/Prefabs/Runners/Anko/Textures/internal_ground_ao_texture.jpeg
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat
