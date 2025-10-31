@@ -1,10 +1,6 @@
 {
     "runners": [
         {
-            "name": "anko",
-            "version": 52
-        },
-        {
             "name": "peterpata",
             "version": 52
         },
