@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 265391500
+CRC: 1742744515
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fdd91492acb66520b01c9396f38c1134
+    Hash: ad1f9ea0e750d8500c1f47b38420e672
   TypeTreeHash:
     serializedVersion: 2
     Hash: ec4fcbe4617f02b0fdddbfa5a3334a45
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: fdd91492acb66520b01c9396f38c1134
+    Hash: ad1f9ea0e750d8500c1f47b38420e672
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -172,6 +172,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
 - Assets/Prefabs/Runners/Anko/wario/wario03@T-Pose.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/ChickenGun.asset
+- Assets/Prefabs/Runners/Anko/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
@@ -185,6 +186,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/ChickenGun.prefab
+- Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/SciHiHeavyGun.prefab
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.jpeg
 - Assets/Prefabs/Runners/Anko/wario/textures/wario_tex.tga.png
