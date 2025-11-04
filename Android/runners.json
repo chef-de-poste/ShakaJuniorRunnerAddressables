@@ -9,10 +9,6 @@
             "version": 8
         },
         {
-            "name": "AssetBundleManifest",
-            "version": 1
-        },
-        {
             "name": "anko",
             "version": 1
         }
