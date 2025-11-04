@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3271036929
+CRC: 265391500
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e18579bd794f95112a28ea9d83d15833
+    Hash: fdd91492acb66520b01c9396f38c1134
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 522a8cb1ffe936511abf896c85dcd61c
+    Hash: ec4fcbe4617f02b0fdddbfa5a3334a45
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e18579bd794f95112a28ea9d83d15833
+    Hash: fdd91492acb66520b01c9396f38c1134
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -35,6 +35,10 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 - Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
   Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
@@ -76,6 +80,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 925a9ff895e76014e887c56a970dba75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0a8eefed71f2fdd45a59cbef85bc4cf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbe0177044df24045ab88f7c1b21ba04, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 2abc2f0cd17aa164d9339a16e110a495, type: 3}
 - Class: 114
@@ -183,6 +189,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.jpeg
 - Assets/Prefabs/Runners/Anko/wario/textures/wario_tex.tga.png
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
+- Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.mp3
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
