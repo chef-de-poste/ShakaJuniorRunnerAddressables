@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 811074281
+CRC: 961381449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b5783714671b56baac942258ea6e205
+    Hash: 9e5b42e094c363cde41e0c14f252777d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: ec4fcbe4617f02b0fdddbfa5a3334a45
+    Hash: 46129f2a46a8c482059c522185ca0db5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1b5783714671b56baac942258ea6e205
+    Hash: 9e5b42e094c363cde41e0c14f252777d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -100,6 +100,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9a5940eb0528ebc4ca57ed64f86ee263, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bbde68e4a3e016d4d8f5084bda2e59fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -163,6 +165,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/RunnerSprite1.png
+- Assets/Prefabs/Runners/Anko/Sound/Foot.wav
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/material/PolygonScifiWorlds_Mat_01_A.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/ufo.PNG
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
