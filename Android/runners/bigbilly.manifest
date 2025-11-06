@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3720333302
+CRC: 1862619868
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5d82bdd1612aecf42976b718588db88d
+    Hash: cfc240478e1d954ae14fd26cc969315d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3939bbac9e43fc3330b474ac54a776de
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5d82bdd1612aecf42976b718588db88d
+    Hash: cfc240478e1d954ae14fd26cc969315d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -153,8 +153,9 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/Animation/Jump.anim
 - Assets/Prefabs/Runners/BigBilly/RunnerSprite2.png
+- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryModeSound1.mp3
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Punching@Fireball.fbx
-- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryModeSound.mp3
+- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryModeSound.wav
 - Assets/Prefabs/Runners/BigBilly/Animation/Idle.anim
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/source/WaterGun.asset
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeapon.prefab

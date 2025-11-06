@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 977770503
+CRC: 3342783622
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ed720133d409602c1e57f2933b33fe02
+    Hash: 39184b1d5b54a751648d3432385eb67e
   TypeTreeHash:
     serializedVersion: 2
     Hash: a9504619633e41cc7d03049e7e58e3ec
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ed720133d409602c1e57f2933b33fe02
+    Hash: 39184b1d5b54a751648d3432385eb67e
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,8 +150,8 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
 - Assets/Prefabs/Runners/PeterPata/Animation/Running Slide.anim
-- Assets/Prefabs/Runners/PeterPata/Sound/SecondaryModeSound.mp3
 - Assets/Prefabs/Runners/PeterPata/RunnerProfile.asset
+- Assets/Prefabs/Runners/PeterPata/Sound/SecondaryModeSound.wav
 - Assets/Prefabs/Runners/PeterPata/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
@@ -166,6 +166,7 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/Animation/peter@Happy Idle@Standard Run.fbx
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/nick_fury@Running Slide.fbx
+- Assets/Prefabs/Runners/PeterPata/Sound/SecondaryModeSound1.mp3
 - Assets/Prefabs/Runners/PeterPata/Animation/peter@Running.fbx
 - Assets/Prefabs/Runners/PeterPata/HitImpact.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterModel/peter@Happy Idle.fbx

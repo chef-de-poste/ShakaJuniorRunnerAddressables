@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1675538277
+CRC: 811074281
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2af45379d86f848502f0b595404c711d
+    Hash: 1b5783714671b56baac942258ea6e205
   TypeTreeHash:
     serializedVersion: 2
     Hash: ec4fcbe4617f02b0fdddbfa5a3334a45
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 2af45379d86f848502f0b595404c711d
+    Hash: 1b5783714671b56baac942258ea6e205
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,8 +150,8 @@ Assets:
 - Assets/Prefabs/Runners/Anko/wario/wario03@Unarmed Idle.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Idle.fbx
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Standard Run.fbx
+- Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Idle.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/Material-material.mat
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Running Slide.fbx
@@ -191,13 +191,15 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.jpeg
 - Assets/Prefabs/Runners/Anko/wario/textures/wario_tex.tga.png
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryModeSound.mp3
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/AnkoModel/BunnyRanger.fbx
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/Lasergun.fbx
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/Lasergun.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Anko/wario/Model/wario03.fbx
 - Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Jump Over.fbx
-Dependencies: []
+Dependencies:
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
