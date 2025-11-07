@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1672871749
+CRC: 786812881
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a64de6fbe79d41edac8da867db53385
+    Hash: 38d1cec0961e8f46fba462f453aeaaee
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 71824634bb20ef96d3cf11aad8e40e88
+    Hash: 7be57e8acedae66225335d389b8d01ce
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9a64de6fbe79d41edac8da867db53385
+    Hash: 38d1cec0961e8f46fba462f453aeaaee
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -78,8 +78,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 925a9ff895e76014e887c56a970dba75, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 0a8eefed71f2fdd45a59cbef85bc4cf0, type: 3}
 - Class: 114
@@ -150,45 +148,46 @@ SerializeReferenceClassIdentifiers:
 - AssemblyName: UnityEngine.UI
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
-- Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefenseInstance.prefab
-- Assets/Prefabs/Runners/BigBilly/Animation/Running Slide.anim
-- Assets/Prefabs/Runners/BigBilly/RunnerSprite3.png
 - Assets/Prefabs/Runners/BigBilly/RunnerAnimationController.controller
+- Assets/Prefabs/Runners/BigBilly/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefenseInstance.prefab
+- Assets/Prefabs/Runners/BigBilly/RunnerSprite3.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/Animation/Jump.anim
 - Assets/Prefabs/Runners/BigBilly/RunnerSprite2.png
+- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Punching@Fireball.fbx
-- Assets/Prefabs/Runners/BigBilly/Sound/PrimaryWeaponSound.wav
+- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryModeSound.wav
 - Assets/Prefabs/Runners/BigBilly/Animation/Idle.anim
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/source/WaterGun.asset
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/HitImpact.prefab
 - Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
-- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryModeSound.wav
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture3.png
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Happy Idle@Jumping Up.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Flaba@Punching.fbx
 - Assets/Prefabs/Runners/BigBilly/Animation/Slide.anim
 - Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
+- Assets/Prefabs/Runners/BigBilly/Sound/Foot.wav
 - Assets/Prefabs/Runners/BigBilly/RunnerProfile.asset
 - Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/MagicalPoof.prefab
-- Assets/Prefabs/Runners/BigBilly/Sound/Foot.wav
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture2.png
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Running Slide.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/BigBilly/RunnerSprite.png
-- Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Punching@Bouncing Fight Idle.fbx
 - Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Punching@Bouncing Fight Idle.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture.png
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Jump.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Running.fbx
-- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture1.png
-- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
 - Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefense.asset
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture1.png
+- Assets/Prefabs/Runners/BigBilly/Sound/PrimaryWeaponSound.wav
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/textures/WaterGunTexture.jpg
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
-Dependencies: []
+Dependencies:
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata

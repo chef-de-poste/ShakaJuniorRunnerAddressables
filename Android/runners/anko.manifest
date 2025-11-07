@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 961381449
+CRC: 1232793091
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e5b42e094c363cde41e0c14f252777d
+    Hash: 74092081dc4bb50a2d9b72053521cae5
   TypeTreeHash:
     serializedVersion: 2
     Hash: 46129f2a46a8c482059c522185ca0db5
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9e5b42e094c363cde41e0c14f252777d
+    Hash: 74092081dc4bb50a2d9b72053521cae5
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -165,7 +165,6 @@ Assets:
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/RunnerSprite1.png
-- Assets/Prefabs/Runners/Anko/Sound/Foot.wav
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/material/PolygonScifiWorlds_Mat_01_A.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/ufo.PNG
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/source/WaterCannon.asset
@@ -188,6 +187,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/AnkoSaucer.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
+- Assets/Prefabs/Runners/Anko/Sound/Foot.wav
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/ChickenGun.prefab
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SciHiHeavyGun/SciHiHeavyGun.prefab

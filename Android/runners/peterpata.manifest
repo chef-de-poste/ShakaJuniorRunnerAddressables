@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2762032680
+CRC: 228317539
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 252e7cf1811e62bb5a2f041d80f0a940
+    Hash: edc47d16b55aa890667f7dddc9cd6587
   TypeTreeHash:
     serializedVersion: 2
     Hash: bdd6fb85aec4cbb7f7b3b1616422e67a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 252e7cf1811e62bb5a2f041d80f0a940
+    Hash: edc47d16b55aa890667f7dddc9cd6587
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -144,22 +144,22 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Prefabs/Runners/PeterPata/Animation/Run.anim
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefense.asset
+- Assets/Prefabs/Runners/PeterPata/Sound/Foot.wav
 - Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_N.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/Slide.anim
-- Assets/Prefabs/Runners/PeterPata/Sound/Foot.wav
 - Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefense.asset
-- Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
+- Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
+- Assets/Prefabs/Runners/PeterPata/Animation/Running Slide.anim
 - Assets/Prefabs/Runners/PeterPata/RunnerProfile.asset
 - Assets/Prefabs/Runners/PeterPata/Sound/SecondaryModeSound.wav
-- Assets/Prefabs/Runners/PeterPata/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/PeterPata/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
-- Assets/Prefabs/Runners/PeterPata/Sound/PrimaryWeaponSound.mp3
-- Assets/Prefabs/Runners/PeterPata/RunnerSprite.png
 - Assets/Prefabs/Runners/PeterPata/RunnerSprite2.png
+- Assets/Prefabs/Runners/PeterPata/RunnerSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/PeterPata/Animation/peter@Happy Idle@Jumping Up.fbx
