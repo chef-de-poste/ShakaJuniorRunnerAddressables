@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1232793091
+CRC: 3458213978
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 74092081dc4bb50a2d9b72053521cae5
+    Hash: 8050a04cd9a8775dec577eb14b7f099c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 46129f2a46a8c482059c522185ca0db5
+    Hash: e3d7b89740b577ab596b5748ce278e3b
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 74092081dc4bb50a2d9b72053521cae5
+    Hash: 8050a04cd9a8775dec577eb14b7f099c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -69,6 +69,8 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 24ccab1f7d37adc4eb8004d7c59370de, type: 3}
 - Class: 114
+  Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
@@ -100,8 +102,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9a5940eb0528ebc4ca57ed64f86ee263, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bbde68e4a3e016d4d8f5084bda2e59fc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -184,7 +184,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/AnkoSaucer.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/palet.mat
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
@@ -202,6 +202,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/Anko/wario/Model/wario03.fbx
 - Assets/Prefabs/Runners/Anko/RunnerAnimationController.controller
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Jump Over.fbx
 Dependencies:
 - C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/bigbilly
