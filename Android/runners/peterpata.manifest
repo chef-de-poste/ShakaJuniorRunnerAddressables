@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2862289717
+CRC: 2594229410
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 355ef2c73d97a5fcbdddf0c9ea423212
+    Hash: 7d2932a5bbd25b1da40c7619b143e234
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9ef50eb7325177e2a05ec4e27e9c1037
+    Hash: 29cd4aaa564e8da7f69faa32f23372d1
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 355ef2c73d97a5fcbdddf0c9ea423212
+    Hash: 7d2932a5bbd25b1da40c7619b143e234
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -150,12 +150,11 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/Slide.anim
 - Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefense.asset
-- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
-- Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
 - Assets/Prefabs/Runners/PeterPata/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/PeterPata/Animation/Idle.anim
+- Assets/Prefabs/Runners/PeterPata/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/RunnerProfile.asset
 - Assets/Prefabs/Runners/PeterPata/Sound/SecondaryModeSound.wav
-- Assets/Prefabs/Runners/PeterPata/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerSprite.png
