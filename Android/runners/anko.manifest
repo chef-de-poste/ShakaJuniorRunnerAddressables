@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1219704063
+CRC: 3725802159
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a49ebb525f69206b68ea8024df1cb798
+    Hash: 9e8683e58c25e95a67dd78fb4e19e748
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 29cd4aaa564e8da7f69faa32f23372d1
+    Hash: b0e00343be91ad8d1f0fcae690f86081
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: a49ebb525f69206b68ea8024df1cb798
+    Hash: 9e8683e58c25e95a67dd78fb4e19e748
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -43,6 +43,8 @@ ClassTypes:
 - Class: 91
   Script: {instanceID: 0}
 - Class: 95
+  Script: {instanceID: 0}
+- Class: 96
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
@@ -150,7 +152,6 @@ Assets:
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Standard Run.fbx
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Idle.fbx
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/Material-material.mat
 - Assets/Prefabs/Runners/Anko/Animation/BunnyGuard_Ranger@Running Slide.fbx
 - Assets/Prefabs/Runners/Anko/RunnerSprite.png
 - Assets/Prefabs/Runners/Anko/Animation/Idle.anim
@@ -159,6 +160,9 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/ufo.PNG
+- Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube.mesh
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponProjectile
+  1.prefab
 - Assets/Prefabs/Runners/Anko/Animation/Slide.anim
 - Assets/Prefabs/Runners/Anko/Textures/Ranger.png
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Cube_CubeAction.anim
@@ -166,7 +170,6 @@ Assets:
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/Material/Atlas.mat
 - Assets/Prefabs/Runners/Anko/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
-- Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.fbx
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/Textures/internal_ground_ao_texture.jpeg
 - Assets/Prefabs/Runners/Anko/RunnerProfile.asset
