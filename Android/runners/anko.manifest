@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2808778610
+CRC: 3628716597
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 67c063f833d5a543cdd4b4b9a40b3854
+    Hash: 7faa6085395e8f0bbd8676275e70f948
   TypeTreeHash:
     serializedVersion: 2
-    Hash: f349f25ef5ab318a2e2a98d6d517e7c7
+    Hash: 4746773ed81d702c0a80cd652860a2b7
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 67c063f833d5a543cdd4b4b9a40b3854
+    Hash: 7faa6085395e8f0bbd8676275e70f948
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -137,8 +137,6 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.Events.PersistentListenerMode
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.UnityEvent`1[System.Action]
-- AssemblyName: UnityEngine.CoreModule
-  ClassName: UnityEngine.Events.UnityEvent`2[System.Action,ShakaJunior.Prefabs.Challenges.Challenge]
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.RectOffset
 - AssemblyName: UnityEngine.UI
