@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2754312318
+CRC: 1711669309
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 744bd9b493e04fba62a643b0642ed1d7
+    Hash: 4470f3e9477010ea3760beb9ef1397bd
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4746773ed81d702c0a80cd652860a2b7
+    Hash: 79b035ad836b7ff01b7ecdd9bef5523d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 744bd9b493e04fba62a643b0642ed1d7
+    Hash: 4470f3e9477010ea3760beb9ef1397bd
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -145,7 +145,7 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/Sound/Foot.wav
 - Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_N.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponData.asset
-- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/source/WaterCannon.asset
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/Mesh/WaterCannon.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/Slide.anim
 - Assets/Prefabs/Runners/PeterPata/PrimaryDefense/PrimaryDefense.asset
 - Assets/Prefabs/Runners/PeterPata/Animation/Running Slide.anim
@@ -159,7 +159,8 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SeondaryWeaponSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerAnimationController.controller
-- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
