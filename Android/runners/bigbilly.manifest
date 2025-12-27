@@ -1,0 +1,197 @@
+ManifestFileVersion: 0
+CRC: 6049598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 667239d1bf6a72271b0b652bdb4d6dff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2eb56057705c255491dcbe8937b66343
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 667239d1bf6a72271b0b652bdb4d6dff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: abbf5a58a7266f0439b4bbdcac8b4bcf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8c286e34ac71ddd4fab7fcc82ef16e36, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1198b892fd1d7a14bacce829c56dd2c3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 85cedb815a7a6ae49bddc530f0cd4625, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fec48d2997e7d1f40956b79310c4bb15, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7a20b1086fbe79488df18b75a089484, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2a40a147e7a5af418585f2c51fb0f83, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf9fd2ba7199e24d9f7a4224cc474eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 24ccab1f7d37adc4eb8004d7c59370de, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6aeb76c1fbf4b114da624e2143fdb9ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3e925c96f1b843489350bcdbf97a6f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 010139c0273139e45b31cf0df126d133, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2a5291fdd30dea4d8caed56de7fbb92, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff9d3a9b626da5f448cb465ce98d7e07, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 925a9ff895e76014e887c56a970dba75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0a8eefed71f2fdd45a59cbef85bc4cf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cbe0177044df24045ab88f7c1b21ba04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2abc2f0cd17aa164d9339a16e110a495, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 74a922d661ad7824eac548f55876c563, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eec5c1de881b1f448a950a4ade22dd1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bd9e124cb809c24b89044af9a90e965, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9205bc1bbacc90040a998067b5643d16, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea5356a372ea3a745a936ed0a88ec7a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6589a9e94b3ee7b449c82b05663b5b01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9a5940eb0528ebc4ca57ed64f86ee263, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbde68e4a3e016d4d8f5084bda2e59fc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/AnimatedLight
+- AssemblyName: CFXRRuntime
+  ClassName: CartoonFX.CFXR_Effect/CameraShake
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.AerialFlatMovementConfiguration
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.AerialSecondarySupportConfiguration
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.Managers.ShadowManager.ShadowType
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Action]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/Prefabs/Runners/BigBilly/RunnerAnimationController.controller
+- Assets/Prefabs/Runners/BigBilly/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
+- Assets/Prefabs/Runners/BigBilly/Animation/Jump.anim
+- Assets/Prefabs/Runners/BigBilly/Sound/SecondaryModeSound.wav
+- Assets/Prefabs/Runners/BigBilly/Animation/Idle.anim
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/Mesh/WaterGun.asset
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeapon.prefab
+- Assets/Prefabs/Runners/BigBilly/HitImpact.prefab
+- Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture3.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Flaba@Punching.fbx
+- Assets/Prefabs/Runners/BigBilly/Animation/Slide.anim
+- Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
+- Assets/Prefabs/Runners/BigBilly/Sound/Foot.wav
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailTexture.png
+- Assets/Prefabs/Runners/BigBilly/RunnerProfile.asset
+- Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/MagicalPoof.prefab
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture2.png
+- Assets/Prefabs/Runners/BigBilly/RunnerSprite.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefensePrefab.prefab
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileMaterial.mat
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailMaterial.mat
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTexture.PNG
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponData.asset
+- Assets/Prefabs/Runners/BigBilly/SecondaryDefense/SecondaryDefense.asset
+- Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefense.asset
+- Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture1.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/MaterialTexture/SpinningBlades.mat
+- Assets/Prefabs/Runners/BigBilly/Sound/PrimaryWeaponSound.wav
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/MaterialTexture/WaterGunTexture.jpg
+- Assets/Prefabs/Runners/BigBilly/PrimaryDefense/PrimaryDefenseInstance.prefab
+Dependencies:
+- C:/Users/Dell/Documents/GitHub/ShakaJuniorRunnerAddressables/Android/runners/peterpata
