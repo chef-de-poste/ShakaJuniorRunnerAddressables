@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2852581455
+CRC: 3893050336
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6261541c875730372968a6d2027ab732
+    Hash: af744049d73813e3641cd05671671683
   TypeTreeHash:
     serializedVersion: 2
     Hash: da1871b13f36889f9565dd78af6b3a6a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6261541c875730372968a6d2027ab732
+    Hash: af744049d73813e3641cd05671671683
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -160,6 +160,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/ufo.controller
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/Anko/Sound/Foot.wav
 - Assets/Prefabs/Runners/Anko/RunnerSprite.png
 - Assets/Prefabs/Runners/Anko/Animation/Idle.anim

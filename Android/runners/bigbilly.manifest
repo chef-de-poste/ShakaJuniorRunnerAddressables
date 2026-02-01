@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1624257279
+CRC: 1368398887
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4786a3037d4babbb07313a16d014835d
+    Hash: 9cf680dffcae2119ba55fab74ac478ed
   TypeTreeHash:
     serializedVersion: 2
     Hash: dbc940beb390698215264722529e9d1d
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4786a3037d4babbb07313a16d014835d
+    Hash: 9cf680dffcae2119ba55fab74ac478ed
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -154,6 +154,7 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Prefabs/Runners/BigBilly/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/BigBilly/Animation/Running Slide.anim
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/BigBilly/Sound/SecondaryWeaponSound.wav
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/Animation/Jump.anim

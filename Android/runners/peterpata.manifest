@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 739427751
+CRC: 4134974093
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 75e75e134382e4f6b90fed6e255669b3
+    Hash: 96b297a84048f465118f8d1927476979
   TypeTreeHash:
     serializedVersion: 2
     Hash: da1871b13f36889f9565dd78af6b3a6a
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 75e75e134382e4f6b90fed6e255669b3
+    Hash: 96b297a84048f465118f8d1927476979
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -143,6 +143,7 @@ SerializeReferenceClassIdentifiers:
   ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
 Assets:
 - Assets/Prefabs/Runners/PeterPata/Animation/Run.anim
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshairSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/PeterPata/Sound/Foot.wav
 - Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_N.png
