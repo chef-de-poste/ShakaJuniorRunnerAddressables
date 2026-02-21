@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2989991889
+CRC: 1273494802
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e4b9bb2c10b7ce9e33c4634ee30d8939
+    Hash: 127581a65c6343b71463b7b9a293fd6a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 06d8c7e9b362054e8b4099d971aeb712
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: e4b9bb2c10b7ce9e33c4634ee30d8939
+    Hash: 127581a65c6343b71463b7b9a293fd6a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -154,6 +154,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/Textures/internal_ground_ao_texture.jpeg
 - Assets/Prefabs/Runners/Anko/PrimaryDefense/PrimaryDefenseInstance.prefab
+- Assets/Prefabs/Runners/Anko/Animation/Falling.anim
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/SecondaryDefense.asset
 - Assets/Prefabs/Runners/Anko/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/Anko/Textures/Base.mat

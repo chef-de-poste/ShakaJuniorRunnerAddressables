@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 615673084
+CRC: 3889938426
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: af55834df2380dcb01780d2c2f943d44
+    Hash: 48ed1675b5b46c008d3ea125af478286
   TypeTreeHash:
     serializedVersion: 2
     Hash: 06d8c7e9b362054e8b4099d971aeb712
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: af55834df2380dcb01780d2c2f943d44
+    Hash: 48ed1675b5b46c008d3ea125af478286
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -168,6 +168,7 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
+- Assets/Prefabs/Runners/PeterPata/Animation/Falling.anim
 - Assets/Prefabs/Runners/PeterPata/HitImpact.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterModel/peter@Happy Idle.fbx
 - Assets/Prefabs/Runners/PeterPata/Sound/SecondaryWeaponSound.mp3
