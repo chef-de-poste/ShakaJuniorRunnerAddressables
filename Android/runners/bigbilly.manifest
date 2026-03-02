@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2696081340
+CRC: 2923343672
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4e97e9f144fddece52f032b09add0711
+    Hash: 9547c433bff5ccdb8a0c6049b93f02f7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 827162172cbc092d385a05c22f1a0efa
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 4e97e9f144fddece52f032b09add0711
+    Hash: 9547c433bff5ccdb8a0c6049b93f02f7
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -177,7 +177,6 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/BigBilly/Animation/Falling.anim
 - Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
-- Assets/Prefabs/Runners/BigBilly/Animation/Flaba@Punching@Jumping Down.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture3.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Flaba@Punching.fbx
 - Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
