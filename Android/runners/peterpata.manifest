@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 4269784356
+CRC: 3924612626
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c0d112f8f0155c9763835ddcb9692136
+    Hash: 09b1f6a295a041a555e7b962b6febb00
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8bf8bb3720e2c62c2697a3d6d610d24a
+    Hash: 6bcc661c7b27bbabbe851581705a45ed
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c0d112f8f0155c9763835ddcb9692136
+    Hash: 09b1f6a295a041a555e7b962b6febb00
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -27,8 +27,6 @@ ClassTypes:
 - Class: 43
   Script: {instanceID: 0}
 - Class: 48
-  Script: {instanceID: 0}
-- Class: 54
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
@@ -160,7 +158,7 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeapon.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerSprite.png
 - Assets/Prefabs/Runners/PeterPata/Animation/Falling.anim
-- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SeondaryWeaponSprite.png
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerAnimationController.controller
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
