@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3924612626
+CRC: 3922614308
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 09b1f6a295a041a555e7b962b6febb00
+    Hash: 3a87021e4cfc6da430d4e278d30bafc1
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 6bcc661c7b27bbabbe851581705a45ed
+    Hash: 647e35fd808db7f97155a4ea5647095e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 09b1f6a295a041a555e7b962b6febb00
+    Hash: 3a87021e4cfc6da430d4e278d30bafc1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -127,6 +127,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: ShakaJunior.GroundSecondarySupportConfiguration
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.Managers.ShadowManager.ShadowType
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.ProjectileVisualProfile
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
@@ -161,14 +163,17 @@ Assets:
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponSprite.png
 - Assets/Prefabs/Runners/PeterPata/SecondaryDefense/SecondaryDefensePrefab.prefab
 - Assets/Prefabs/Runners/PeterPata/RunnerAnimationController.controller
-- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/Circle_Impact_Red.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/MaterialTexture/WaterCannonTexture.png
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeapon.prefab
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/Mesh/Main_Truck_1.mesh
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/PeterPata/PeterWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/PlasmaOlb.png
 - Assets/Prefabs/Runners/PeterPata/HitImpact.prefab
 - Assets/Prefabs/Runners/PeterPata/PeterModel/peter@Happy Idle.fbx
+- Assets/Prefabs/Runners/PeterPata/PeterWeapons/Circle_Impact_Yellow.png
 - Assets/Prefabs/Runners/PeterPata/Sound/SecondaryWeaponSound.mp3
 - Assets/Prefabs/Runners/PeterPata/PeterModel/textures/PeterParker_D.png
 - Assets/Prefabs/Runners/PeterPata/Animation/Jump.anim

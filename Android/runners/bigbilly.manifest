@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3061585783
+CRC: 3582367271
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8a6250ab4c5a59d82dcbac7825fc1131
+    Hash: 1a058fca42640ab143ed6ccf5da059bc
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 021bca54481047db4eaee7efff2339d1
+    Hash: 8a904789fd98542f954fcf1860e2cf90
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8a6250ab4c5a59d82dcbac7825fc1131
+    Hash: 1a058fca42640ab143ed6ccf5da059bc
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -91,8 +91,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 74a922d661ad7824eac548f55876c563, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 3eec5c1de881b1f448a950a4ade22dd1, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 6bd9e124cb809c24b89044af9a90e965, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 9205bc1bbacc90040a998067b5643d16, type: 3}
@@ -104,6 +102,8 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 9a5940eb0528ebc4ca57ed64f86ee263, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: bbde68e4a3e016d4d8f5084bda2e59fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eec5c1de881b1f448a950a4ade22dd1, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 136
@@ -137,6 +137,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: ShakaJunior.AerialSecondarySupportConfiguration
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.Managers.ShadowManager.ShadowType
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.ProjectileVisualProfile
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
@@ -161,12 +163,14 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/Mesh/StandardHelicopter.fbx
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponSprite.png
 - Assets/Prefabs/Runners/BigBilly/Animation/Slide.anim
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/Fireball.png
 - Assets/JMO Assets/Cartoon FX Remaster/CFXR Prefabs/Explosions/MagicalPoof.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTrailMaterial.mat
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/MaterialTexture/BigBillyProjectileTexture.PNG
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/FireballRing.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/SecondaryWeaponCrosshair.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture1.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/SecondaryWeapon/MaterialTexture/WaterGunTexture.jpg
@@ -176,6 +180,7 @@ Assets:
 - Assets/Prefabs/Runners/BigBilly/Animation/Falling.anim
 - Assets/Prefabs/Runners/BigBilly/RunnerPrefab.prefab
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Textures/FlabaTexture3.png
+- Assets/Prefabs/Runners/BigBilly/BigBillyWeapons/FireballTail.png
 - Assets/Prefabs/Runners/BigBilly/BigBillyModel/Flaba@Punching.fbx
 - Assets/Prefabs/Runners/BigBilly/Animation/Run.anim
 - Assets/Prefabs/Runners/BigBilly/Sound/Foot.wav

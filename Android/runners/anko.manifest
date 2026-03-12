@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3146407167
+CRC: 1389688357
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9be49e7ffbf2e24f4386b6bcce40eda3
+    Hash: e2f67ea548ebafcde949e1a72a2aaf6d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 192de06e27a405734c67934a3449320a
+    Hash: 4cf734be2f0e61884a23ae0fe9e3d59f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 9be49e7ffbf2e24f4386b6bcce40eda3
+    Hash: e2f67ea548ebafcde949e1a72a2aaf6d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -127,6 +127,8 @@ SerializeReferenceClassIdentifiers:
   ClassName: ShakaJunior.AerialZappyMovementConfiguration
 - AssemblyName: ShakaJunior
   ClassName: ShakaJunior.Managers.ShadowManager.ShadowType
+- AssemblyName: ShakaJunior
+  ClassName: ShakaJunior.ProjectileVisualProfile
 - AssemblyName: UnityEngine.CoreModule
   ClassName: UnityEngine.Events.ArgumentCache
 - AssemblyName: UnityEngine.CoreModule
@@ -144,6 +146,7 @@ Assets:
 - Assets/Prefabs/Runners/Anko/Animation/Running Slide.anim
 - Assets/Prefabs/Runners/Anko/Sound/PrimaryWeaponSound.mp3
 - Assets/Prefabs/Runners/Anko/Animation/Jump.anim
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/Impact4_Blue.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/SecondaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/Animation/Falling.anim
 - Assets/Prefabs/Runners/Anko/RunnerProfile.asset
@@ -166,6 +169,8 @@ Assets:
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/SecondaryWeapon/textures/WaterCannonTexture.png
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponProjectile.prefab
 - Assets/Prefabs/Runners/Anko/Sound/SecondaryWeaponSound.mp3
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/particles-single.png
+- Assets/Prefabs/Runners/Anko/AnkoWeapons/IceblockWall.png
 - Assets/Prefabs/Runners/Anko/Animation/Run.anim
 - Assets/Prefabs/Runners/Anko/AnkoWeapons/PrimaryWeapon/PrimaryWeaponData.asset
 - Assets/Prefabs/Runners/Anko/SecondaryDefense/MaterialTexture/ufo.PNG
